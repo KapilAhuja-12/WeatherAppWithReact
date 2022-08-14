@@ -42,7 +42,7 @@ const Tempapp = () => {
                 </div>
 
                 {!city ? (
-                    <p className="errorMsg">No Data Found <br /> Please Check Your Spelling </p>
+                    <p className="errorMsg">No Data Found <br /> Please Check  </p>
                 ) : (
                     <div>
                         <div className="info">
